@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./whoami.svg" alt="whoami" />
+  <img src="./whoami-2.svg" alt="whoami" />
 </p>
 
 ### Hi, I'm Marc 👋
